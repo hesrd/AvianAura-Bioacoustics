@@ -138,7 +138,7 @@ Two constants in `spectal_imaging.py` are tuned for magpie vocal range and may n
 
 ```python
 FMIN = 500     # lower bound of the mel filterbank
-FMAX = 8000    # upper bound — raise for high-pitched species
+FMAX = 8000    # upper bound  raise for high-pitched species
 ```
 
 ---
