@@ -11,7 +11,7 @@ Self-recorded field audio can be added alongside the archival data and is proces
 ## Quick start
 
 ```bash
-git clone https://github.com/YOURNAME/aviaura.git
+git clone https://github.com/hesrd/AvianAura-Bioacoustics
 cd aviaura
 pip install -r requirements.txt
 python aviaura_ui.py
